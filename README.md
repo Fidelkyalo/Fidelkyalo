@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Fidelkyalo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- @Fidelkyalo
+- HTML
+- CSS
+- JavaScript
+- C/C#
+- C++
+- Python
+- React
+- Web Development
 
 <!---
 Fidelkyalo/Fidelkyalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
