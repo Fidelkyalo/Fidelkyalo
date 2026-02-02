@@ -18,7 +18,8 @@ I am a passionate Full Stack Developer and an Information Systems Analyst. With 
   ## 💰 You can help me by Donating
 ## Support this project
 
-[![Support via PayPal](https://www.paypal.com/ncp/payment/UWA9UNNY98EBE)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/UWA9UNNY98EBE)
+
 
 
 
